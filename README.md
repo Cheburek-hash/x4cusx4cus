@@ -21,10 +21,10 @@
 <div align=center>
     <a href='https://t.me/x4cus'><img height="32" width="32" src='https://simpleicons.org/icons/telegram.svg'></a>
     <a href='https://vk.com/x4xus'><img height="32" width="32" src='https://simpleicons.org/icons/vk.svg'></a>
-    <a href='(mailto:x4cusx4cus@gmail.com)'><img height="32" width="32" src='https://simpleicons.org/icons/gmail.svg'></a>
+    <a href='mailto:x4cusx4cus@gmail.com'><img height="32" width="32" src='https://simpleicons.org/icons/gmail.svg'></a>
 </div>
 
 <div align=center>
     <a href='https://t.me/x4cus'><img src='https://img.shields.io/badge/Telegram-x4cus-9cf?style=flat-square'></a>
     <a href='https://vk.com/x4xus'><img src='https://img.shields.io/badge/Vk-x4xus-black?style=flat-square'></a>
-    <a href='(mailto:x4cusx4cus@gmail.com)'><img src='https://img.shields.io/badge/Gmail-x4cusx4cus-blueviolet?style=flat-square'></a>
+    <a href='mailto:x4cusx4cus@gmail.com'><img src='https://img.shields.io/badge/Gmail-x4cusx4cus-blueviolet?style=flat-square'></a>
