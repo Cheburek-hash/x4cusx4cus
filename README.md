@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/x4cusx4cus">
-    <img height="135px" src="https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=x4cusx4cus&theme=buefy&hide_border=true">
+    <img height="135px" src="https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=x4cusx4cus&theme=buefy&hide_border=true&layout=compact">
 </a>
 
 <br><br>
