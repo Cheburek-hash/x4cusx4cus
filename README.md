@@ -15,12 +15,17 @@
     <img src="https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=x4cusx4cus&theme=buefy&hide_border=true&hide=java,Batchfile,shell">
 </a>
 
-<div align=center>
-    <a href="https://open.spotify.com/user/p9wetpf4rzdtr9cvidj6k4hwk">
+   <a href="https://open.spotify.com/user/p9wetpf4rzdtr9cvidj6k4hwk">
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=p9wetpf4rzdtr9cvidj6k4hwk&cover_image=true&theme=default">
     </a>
+
+<div>
+    <img src='https://i.pinimg.com/originals/2f/bd/0e/2fbd0e73749bf00d1cd8657724c59d45.gif'>
 </div>
 
+
+
+https://i.pinimg.com/originals/2f/bd/0e/2fbd0e73749bf00d1cd8657724c59d45.gif
 <br><br>
 
 <p align=center>Contact me</p>
