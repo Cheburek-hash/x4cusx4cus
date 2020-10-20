@@ -19,7 +19,7 @@
    <a href="https://open.spotify.com/user/p9wetpf4rzdtr9cvidj6k4hwk">
         <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=p9wetpf4rzdtr9cvidj6k4hwk&cover_image=true&theme=default">
     </a>
-<div>
+</div>
 
 
 
