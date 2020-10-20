@@ -21,10 +21,6 @@
     </a>
 </div>
 
-
-
-<br><br>
-
 <p align=center>Contact me</p>
 <div align=center>
     <a href='https://t.me/x4cus'><img height="32" width="32" src='https://simpleicons.org/icons/telegram.svg'></a>
